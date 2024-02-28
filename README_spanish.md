@@ -2,19 +2,19 @@
 <img src="https://wonderwars.game/wp-content/uploads/2022/06/wonder-wars-logo-game-mobile-no-orumit.png" alt="wonderwars" width="500"/>
 </p>
 
-## A repository for Wonder Wars game characters information
+## Un repositorio con información de los personajes de Wonder Wars
 
 ---
 
-🇬🇧 **You are viewing the contents of the repository in English**
+:es: **Estas viendo el contenido del repositorio en español**  
 
-:es: *[Versión en español aquí](README_spanish.md)*  
+🇬🇧 *[English version here](README.md)*
 
 ---
 
-## :scroll: Content
+## :scroll: Contenido
 
-* :floppy_disk: [WonderWars_0.0.3.json](./WonderWars_0.0.3.json) contains information about each of the characters in the game directly from the [Wonder Wars wiki](https://wonderwars.game/wiki/) for the alpha 0.0.3 version. An example is shown below:
+* :floppy_disk: [WonderWars_0.0.3.json](./WonderWars_0.0.3.json) contiene la información de cada uno de los personajes del juego directamente extraída de la [wiki de Wonder Wars](https://wonderwars.game/wiki/) para la versión alpha 0.0.3. A continuación se muestra un ejemplo:
 
 ```
 {
@@ -33,7 +33,7 @@
 
 ---
 
-[*Wonder Wars repo*](https://github.com/aitorvv/WonderWars) - [*Wonder Wars website*](https://wonderwars.game/) - [*About me*](https://github.com/aitorvv)
+[*Wonder Wars repo*](https://github.com/aitorvv/WonderWars) - [*Wonder Wars web*](https://wonderwars.game/) - [*Sobre mi*](https://github.com/aitorvv)
 
 <p align="center">
 <img src="https://wonderwars.game/wp-content/uploads/2022/06/wonder-wars-logo-game-mobile-no-orumit.png" alt="wonderwars" width="500"/>

@@ -1,0 +1,434 @@
+[
+{
+  "name": "B0B-MB",
+  "type": "troop",
+  "description": "A bomb with artificial intelligence. This robot model was born within the rebellion to forcefully and quickly combat the presence of the Round Table. His creator instilled in him the idea of immolation in case it was necessary.",
+  "information": {
+    "ability": "Explode: Explode on death and deals +40 DMG to the enemy in front of it.",
+    "damage": 30,
+    "life": 30,
+    "faction": "Junk Towers",
+    "race": "Robot"
+  }
+},
+{
+  "name": "Fergor",
+  "type": "troop",
+  "description": "Born from the depths of the volcano by the magic of Kadria. Cruel, merciless. It only wants to burn the enemy. Fighting is the only meaning of its existence.",
+  "information": {
+    "ability": "Spellcraft: At the start of the round, deals +30 DMG to the enemy hero",
+    "damage": 30,
+    "life": 40,
+    "faction": "Vulcan",
+    "race": "Invocation"
+  }
+},
+{
+  "name": "Freddy",
+  "type": "troop",
+  "description": "He will not hesitate to open fire if necessary. Thanks to technological advancement, Vanguard is where the greatest refinement of gunpowder has been achieved. Guardian artillery is reserved for the most extreme cases, where a more than deterrent, if not lethal, method is required.",
+  "information": {
+    "ability": "Helping fire: Shoots 30 damage to the enemy troop in front of an adjacent ally troop.",
+    "damage": 10,
+    "life": 60,
+    "faction": "Vanguard",
+    "race": "Human"
+  }
+},
+{
+  "name": "Glob",
+  "type": "troop",
+  "description": "Strong creature without mercy. This warrior is ruthless and cruel, he enjoys battle and can command those who are willing to submit to his orders. For amphibians, strength is everything. Only the truly intelligent are the most ambitious, those who end up being patriarchs.",
+  "information": {
+    "ability": "No ability",
+    "damage": 50,
+    "life": 40,
+    "faction": "Wild Frontier",
+    "race": "Kruk"
+  }
+},
+{
+  "name": "Grantmor",
+  "type": "troop",
+  "description": "The largest specimen of all the Elementals. He is of a peaceful and patient character although he always has an angry expression. If he decides to stay seated, nothing can get him up again. Except for a tasty obsidian snack, that is his real weak point.",
+  "information": {
+    "ability": "Armour: Protects itself every round to receive less damage (+30 SHIELD)",
+    "damage": 10,
+    "life": 60,
+    "faction": "Wild Frontier",
+    "race": "Elemental"
+  }
+},
+{
+  "name": "Griber",
+  "type": "troop",
+  "description": "It will emerge from the depths of the earth and attack before there is time to react. He loves to burn others. He is not evil, he simply has killer instincts, just as Kadria instilled in him. He especially hates ice beings.",
+  "information": {
+    "ability": "Abrade: Before combat, Griber deals +30 DMG to the enemy in front of him",
+    "damage": 30,
+    "life": 30,
+    "faction": "Vulcan",
+    "race": "Invocation"
+  }
+},
+{
+  "name": "Gyzorbots",
+  "type": "troop",
+  "description": "Small and agile, their programming drives them to stab greedily. If you hear little paws running towards you it’s too late: you’re surrounded. They love to stick their daggers again and again into anyone who gets in front of them.",
+  "information": {
+    "ability": "Distract: Start of round: Lower -30 ATK to the most powerful enemy troop.",
+    "damage": 10,
+    "life": 70,
+    "faction": "Junk Towers",
+    "race": "Robot"
+  }
+},
+{
+  "name": "Hallür",
+  "type": "troop",
+  "description": "One of the best warriors in Jokülheim. He is one of the best warriors in Jokülheim, it is not convenient for you to make him angry, it is not a good idea, since he gets out of control easily. His greatest passion is playing Knattleikr, the fiercest, most competitive, and bestial ball game ever created.",
+  "information": {
+    "ability": "Enrage: Every time he receives damage, he gains stats (+10 ATK +10 HP CUMULATIVE)",
+    "damage": 10,
+    "life": 50,
+    "faction": "Jokülheim",
+    "race": "Jokül"
+  }
+},
+{
+  "name": "Haralk",
+  "type": "hero",
+  "description": "Aggressive and powerful. Strong, fierce and brave. Loyal to his clan and friends, honorable and courageous. His axe is the first thing he picked up at birth and will be the last thing he will drop when he dies. Facing him is the last thing one does in life. Leader of the Axe clan, he is always accompanied by Mahomot, the saber-toothed ancestor and faithful friend.",
+  "information": {
+    "ability": "Stomp / Assault: After combat, Haralk leaves 2 Injury stacks. If before the combat the enemy has 4 Injury stacks or more, Haralk will instead consume all the stacks of the enemy causing +20 DMG per stack after combat. Injury: 1 stack = 10 DMG. If you move a troop from its lane, it will activate the Injury stacks causing it damage.",
+    "damage": 20,
+    "life": 240,
+    "faction": "Jokülheim",
+    "race": "Jokül"
+  }
+},
+{
+  "name": "Hindaya",
+  "type": "hero",
+  "description": "Kitsune, half fox, half woman. Soul of Jokülheim destined to protect and balance the region, but her mischievous nature prevents her from evolving as she should. Half-human half-fox deity, with a duty to balance nature but with an inner desire to behave simply as a woman. She will cast a spell on you if the wind whispers her name, 'Hindaya… Hindaya…'",
+  "information": {
+    "ability": "Charm: Start of the round: Enchants the first enemy troop with 20 ATK or less and cause it to do no damage that round.",
+    "damage": 20,
+    "life": 220,
+    "faction": "Jokülheim",
+    "race": "Kitsune"
+  }
+},
+{
+  "name": "J-4WS",
+  "type": "troop",
+  "description": "It devours everything that crosses its way without caring. It is capable of crushing practically everything thanks to its enormous jaws. Only a few can stop him, due to his great weight and strength.",
+  "information": {
+    "ability": "Morbid: Swallow an ally and gain +20 ATK and +20 HP",
+    "damage": 20,
+    "life": 50,
+    "faction": "Junk Towers",
+    "race": "Robot"
+  }
+},
+{
+  "name": "Jack",
+  "type": "troop",
+  "description": "One of the best soldiers in Vanguard. Jack is famous for his great mastery of shield and sword in equal parts.",
+  "information": {
+    "ability": "No ability",
+    "damage": 20,
+    "life": 110,
+    "faction": "Vanguard",
+    "race": "Human"
+  }
+},
+{
+  "name": "Jarkos",
+  "type": "hero",
+  "description": "If there is a true guardian of the city, it is Jarkos. He will put all his strength and honor in each mission, being the only one able to control the demonic sword thanks to his righteousness and nobility. Knight of the royal guard, honorable, loyal and just, with high principles. He fights for the good with courage and strength, convinced of the honesty of his position. Innocent and easily manipulated.",
+  "information": {
+    "ability": "Demonic Embrace: Start of the round: Enhance Wonders in the arena (10 ATK) or give 10 SHIELD based on if Jarkos has fought last round. Jarkos consumes 10 HP for each troop he empowers/defends.",
+    "damage": 20,
+    "life": 300,
+    "faction": "Vanguard",
+    "race": "Human"
+  }
+},
+{
+  "name": "Kadria",
+  "type": "hero",
+  "description": "Intelligent, powerful, tenacious. At the same time sensitive and kind, but capable of sweeping away anything that stands in her way. When Kadria decides something, she won’t take “no” for an answer and nothing can stop her. The imposing queen of Vulcan will achieve anything she wants by transforming the magma of the volcano, try not to become her target.",
+  "information": {
+    "ability": "Summon: End of the round: Summons a creature on the right lane. Needs 1 round to charge the attack. The more rounds it takes Kadria to summon, the more powerful the summon will be.\n2 rounds: 10 ATK 20 HP\n3 rounds: 20 ATK 30 HP\n4 rounds: 30 ATK 40 HP\n5 rounds: 40 ATK 50 HP\n6 rounds: 50 ATK 50 HP",
+    "damage": 20,
+    "life": 220,
+    "faction": "Vulcan",
+    "race": "Demon"
+  }
+},
+{
+  "name": "Kheeldren",
+  "type": "troop",
+  "description": "He will throw his small axe if he thinks it is necessary. The lost souls will return to the world and thus the dominion of the forgotten kingdoms will rise again.",
+  "information": {
+    "ability": "Abrade: Deal +20 DMG to the enemy right before engaging in combat.",
+    "damage": 20,
+    "life": 50,
+    "faction": "The Deep",
+    "race": "Unsoul"
+  }
+},
+{
+  "name": "King Blurp",
+  "type": "hero",
+  "description": "The Mother Swamp is sacred! You can seduce him by offering jewelry but if you touch his skin you will be devoured immediately and your clothes will become part of his cloak.",
+  "information": {
+    "ability": "Sun Beam: Start of the round: In rounds 1 and 6, enhance all ally troops abilities (+10)",
+    "damage": 20,
+    "life": 220,
+    "faction": "Wild Frontier",
+    "race": "Kruk"
+  }
+},
+{
+  "name": "Kotton",
+  "type": "troop",
+  "description": "It loves to hide and attack by surprise, so it is possible that before you try to fight it you are already dead. Friendly and playful with other friendly creatures of Jokülheim, but extremely aggressive towards the enemy. He enjoys the fight to the death very much.",
+  "information": {
+    "ability": "Decimate: After combat: Deals 10 DMG to all enemy troops in combat.",
+    "damage": 20,
+    "life": 70,
+    "faction": "Jokülheim",
+    "race": "Beast"
+  }
+},
+{
+  "name": "Lusbaal",
+  "type": "hero",
+  "description": "He will resort to the worst of black magic in order to destroy his enemies, aided by the strength of those demons with whom he made a pact. He is at his strongest when he renounces his sight, for he has made a pact with superior demons. Evil, dishonest, treacherous, manipulative, intelligent.",
+  "information": {
+    "ability": "Execute: End of the round: If the enemy hero has 100HP or less and your Lusbaal hasn't fought against him/her in that round, Lusbaal will deal 20 DMG to the enemy hero.",
+    "damage": 20,
+    "life": 220,
+    "faction": "Vulcan",
+    "race": "Demon"
+  }
+},
+{
+  "name": "Monj",
+  "type": "troop",
+  "description": "He is the calmest and most good-natured in all of Jokülheim. He stays out of trouble until it’s time to eat. Nothing can stop him if his nose catches the smell of roasting meat.",
+  "information": {
+    "ability": "Reflect: After combat reflects +30 DMG when receiving damage.",
+    "damage": 10,
+    "life": 70,
+    "faction": "Jokülheim",
+    "race": "Beast"
+  }
+},
+{
+  "name": "Murby",
+  "type": "troop",
+  "description": "They lack a privileged mind. The strongest end up being warriors, those who show some minimum intelligence prefer to stay away from war. The instruction they receive is insufficient, if not null, they intuit that the stick with a spike is used to prick and the turtle shell to cover themselves.",
+  "information": {
+    "ability": "No ability",
+    "damage": 30,
+    "life": 70,
+    "faction": "Wild Frontier",
+    "race": "Kruk"
+  }
+},
+{
+  "name": "Ragor",
+  "type": "troop",
+  "description": "I assure you that you don’t want to infuriate him since he is capable of splitting a river in two with one punch. Extremely perfectionist and with the soul of an architect, although his works do not last long because he loves to devour them. Nicknamed “the grumpy one” by the rest of elementals, he has a surly character and extreme strength.",
+  "information": {
+    "ability": "Enrage: After combat: Every time he receives damage, he gains +20 ATK",
+    "damage": 10,
+    "life": 60,
+    "faction": "Wild Frontier",
+    "race": "Elemental"
+  }
+},
+{
+  "name": "Roderich",
+  "type": "hero",
+  "description": "An excellent inventor and creator. Just because he was born in Vanguard doesn’t make him one of them. He is the greatest tech genius of Mundo Maravilla and can build whatever he proposes.",
+  "information": {
+    "ability": "Multifunction:\nA: SpellCraft (round 1-4-7…)\nB: Seek the weak (round 2-5-8…)\nC: +10 SHIELD (round 3-6-9…)\nSpellCraft: Start of the round, deals 10 DMG to the enemy leader.\nSeek the weak: End of the round, deals 10 DMG to the troop with less HP.\nShield: Start of the round, protects himself 10 SHIELD",
+    "damage": 20,
+    "life": 220,
+    "faction": "Junk Towers",
+    "race": "Human"
+  }
+},
+{
+  "name": "Sgrag",
+  "type": "troop",
+  "description": "Faithful servant of Kadria, he will try to kill his enemy slowly in order to enjoy his suffering. Animal intelligence, basic and instinctive. Evil, enjoys the suffering of others. Likes to fight, kill and then eat whoever it has defeated, whatever it is.",
+  "information": {
+    "ability": "Trample: After combat, if Sgrag kills the enemy troop and survives, Sgrag will deal 40 DMG to the enemy leader",
+    "damage": 30,
+    "life": 70,
+    "faction": "Vulcan",
+    "race": "Demon"
+  }
+},
+{
+  "name": "Shameera",
+  "type": "troop",
+  "description": "The only Kruk with magical healing ability. In the beginning, she caused troublesome side effects on healing, but since she has her staff you could trust her with your life. Shameera belonged to the clan of the Mistios, the least aggressive of all.",
+  "information": {
+    "ability": "Heals: Heals the most injured ally at the end of the round (+30HP)",
+    "damage": 10,
+    "life": 80,
+    "faction": "Wild Frontier",
+    "race": "Kruk"
+  }
+},
+{
+  "name": "Shawmit",
+  "type": "troop",
+  "description": "If he’s in a good mood he will absorb your soul to feel alive. If he’s in a bad mood… also, but after enveloping you in a darkness that will make you wish for death. Nothing is more satisfying to him than to create immense darkness to lure a creature and enveloping it in fear and paralysis, absorb its soul until it is dry and without any inner life. So intrinsically evil that he is not even aware of his evil, it is his natural attitude.",
+  "information": {
+    "ability": "Hunt: On enter, he deals +40 DMG to the troop in the farthest lane. Right lane attacks left lane and vice versa. Mid lane attacks mid lane.",
+    "damage": 10,
+    "life": 30,
+    "faction": "The Deep",
+    "race": "Shadow"
+  }
+},
+{
+  "name": "Shyor",
+  "type": "troop",
+  "description": "Withdrawn, shy, isolated. Dislikes fighting. It has great sensitivity and aesthetic taste. A little more conceited than the rest of elementals. To this day many still argue whether Shyor is legless or actually has no arms. What is clear is that, despite his peaceful nature, he will do anything to protect you if you need it.",
+  "information": {
+    "ability": "Guard: Before combat, Shyor protects adjacent ally troops before they engage in combat (+30 SHIELD)",
+    "damage": 0,
+    "life": 80,
+    "faction": "Wild Frontier",
+    "race": "Elemental"
+  }
+},
+{
+  "name": "Sicksy",
+  "type": "hero",
+  "description": "She is at the forefront of the rebellion. A battle-hardened fighter who throws everything into the fight coupled with her trusty gauntlets, which only she can activate.",
+  "information": {
+    "ability": "Fury Punch: Deals +20 DMG before the combat if she faced the same enemy in the previous round.",
+    "damage": 20,
+    "life": 240,
+    "faction": "Junk Towers",
+    "race": "Odd"
+  }
+},
+{
+  "name": "Sophie",
+  "type": "troop",
+  "description": "She’s on the Guardians’ first line of defense. She is perfect for holding back masses of riots and protecting people with her huge shield. Willing to stand between danger and those who need help regardless of her physical integrity.",
+  "information": {
+    "ability": "Guard: Protects adjacent troops before they engage in combat (+20 Shield).",
+    "damage": 10,
+    "life": 50,
+    "faction": "Vanguard",
+    "race": "Human"
+  }
+},
+{
+  "name": "Stinky",
+  "type": "hero",
+  "description": "Sober and confident, willing to work for the highest bidder. Stinky was born into one of the wealthiest families in Vanguard, but his status as Odd caused him to be pushed aside. She gained respect in the underworld for her fizzy concoctions, which she ended up using as weapons.",
+  "information": {
+    "ability": "Passive Augmenter: Deals +10 DMG (cumulative to 30) to the enemy leader if she hasn’t been in combat in that turn.",
+    "damage": 20,
+    "life": 220,
+    "faction": "Vanguard",
+    "race": "Odd"
+  }
+},
+{
+  "name": "Tweeks",
+  "type": "troop",
+  "description": "Two eyes in two directions, two guns shooting at two targets. Fighting Tweeks is like fighting two gunmen at the same time… although with not very good aim. He trusts no one and talks to no one, but listens to everything. Intelligent, he is the first to find out reserved information. Often drunk.",
+  "information": {
+    "ability": "Bravery: Before combat, Tweeks gains +30 ATK each time a troop of equal or higher strength enters in the arena.",
+    "damage": 10,
+    "life": 80,
+    "faction": "Junk Towers",
+    "race": "Human"
+  }
+},
+{
+  "name": "Uldren",
+  "type": "troop",
+  "description": "Once he enters combat he doesn’t listen to reason, his only objective is to destroy bodies and souls with his own hands. He likes to crush creatures with his bare hands. He usually collects souvenirs from the worlds he conquers to transfer them to The Deep. Not very talkative but very deadly.",
+  "information": {
+    "ability": "Soul Drain: Before combat: Every time a troop (enemy or ally) dies, Uldren will gain +20 HP.",
+    "damage": 20,
+    "life": 50,
+    "faction": "The Deep",
+    "race": "Unsoul"
+  }
+},
+{
+  "name": "Vincent",
+  "type": "troop",
+  "description": "He is the bravest and most loyal guardian of Vanguard. He is willing to perform his duty. He patrols the streets to maintain order, guarding the most important infrastructures, stationed at all entrances and exits.",
+  "information": {
+    "ability": "No ability",
+    "damage": 40,
+    "life": 60,
+    "faction": "Vanguard",
+    "race": "Human"
+  }
+},
+{
+  "name": "Warinx",
+  "type": "troop",
+  "description": "Hallür bred this beast, becoming even more dangerous than his own race. Fierce and surly, typical character of his breed. Competitive. Aggressive and dangerous, until you scratch his belly, his real weak point. He likes to play jokes on Monj.",
+  "information": {
+    "ability": "Injury: After combat: Every time he attacks, the enemy will receive 3 Injury stacks. Injury: 1 stack = 10 DMG. If you move a troop from its lane, it will activate the Injury stacks causing it damage.",
+    "damage": 20,
+    "life": 70,
+    "faction": "Jokülheim",
+    "race": "Beast"
+  }
+},
+{
+  "name": "Werth",
+  "type": "troop",
+  "description": "Do not confront Werth if you are not prepared. The lost souls will return to the world and thus the dominion of the forgotten kingdoms will rise again.",
+  "information": {
+    "ability": "Spellcraft: Deal +20 DMG to the enemy leader at the beginning of the round.",
+    "damage": 10,
+    "life": 80,
+    "faction": "The Deep",
+    "race": "Unsoul"
+  }
+},
+{
+  "name": "William",
+  "type": "troop",
+  "description": "Very intelligent and creative, but also absent-minded. He would give his life for his own. Confident and someone to trust. Some people’s trash is treasure for others, and this scrap metal inventor has the fascinating talent of transforming the dirtiest and most useless things into something dazzling and useful, which is why everyone at Junk Bases holds him in high esteem and esteem.",
+  "information": {
+    "ability": "Heroic: Before combat, William gains +20 ATK and +20 HP when left alone in that round. Being already in the arena won't activate Heroic.",
+    "damage": 20,
+    "life": 60,
+    "faction": "Junk Towers",
+    "race": "Human"
+  }
+},
+{
+  "name": "Yurki",
+  "type": "troop",
+  "description": "They say reptiles are cold-blooded, but her blood boils… Capable of attacking with whatever is at hand. When she is calm she is independent and introverted, she loves music, reading and plants, but when she gets angry she presents a tremendously fierce and aggressive character. Prodigious hearing, perfect for spying.",
+  "information": {
+    "ability": "Rend: After combat, she gains +10 ATK every time she attacks the enemy hero.",
+    "damage": 20,
+    "life": 80,
+    "faction": "Junk Towers",
+    "race": "Odd"
+  }
+}
+]
